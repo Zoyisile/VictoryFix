@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890562656880",
+    "firebase_url": "https://victoryfix-7875c.firebaseio.com",
+    "project_id": "victoryfix-7875c",
+    "storage_bucket": "victoryfix-7875c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890562656880:android:815e8c62e155432d",
+        "android_client_info": {
+          "package_name": "com.example.admin.victoryfix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890562656880-6127sjpkh40po75gb0dhtgdvfe8dgii0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH6gpwi6Qh8esHF4QC-jPhOxC8wOkHdLw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890562656880-6127sjpkh40po75gb0dhtgdvfe8dgii0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
